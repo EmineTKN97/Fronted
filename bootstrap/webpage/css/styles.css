@@ -1,0 +1,15 @@
+body {
+    background: #e9ecef;
+  }
+  ul { list-style-position: inside; }
+  .card {
+    transition: 0.5s all ease;
+    cursor: pointer;
+    margin: 5px 0;
+  }
+  .card:hover {
+    border: 1px solid;
+  }
+  footer p{
+    text-align: center;
+  }

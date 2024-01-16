@@ -1,0 +1,29 @@
+*{
+    color:white;
+    background-color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+ul{
+   list-style-position: inside;
+   
+}
+.text-center{
+    color:red;
+}
+p{
+    font-weight: bold;
+}
+
+img{
+    height: 400px;
+}
+footer{
+    border: 1px solid white;
+}
+header{
+    border: 1px solid white;
+}
+div{
+    border: 1px solid white;
+}
